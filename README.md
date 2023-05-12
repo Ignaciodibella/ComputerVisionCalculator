@@ -31,4 +31,6 @@ You'll need to install the following
 <br> This is intended to adjust or calibrate the clic sensibility, but the default config should work just fine.
 <br> Nonetheless, you can tweak this config at line 84: `if length < 47:`
 
-insertar foto de las salidas de print de length explicando como ajustar el parámetro para la sensibilidad del click
+<div align="center">
+<img src ="https://github.com/Ignaciodibella/ComputerVisionCalculator/blob/main/length.PNG">
+</div>
