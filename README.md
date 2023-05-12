@@ -11,7 +11,7 @@ Gesture controlled calculator using computer vision with python.
 </div>
 
 ### 💡 How to use it:
-1. Download the CVCalculator.py file.
+1. Download the `CVCalculator.py` file.
 2. See the **Requirement** section for installation requirements.
 3. Once it's up and running you'll notice the front camera will open up and a window will pop up.
 4. Your index finger will serve as a mouse. Also, al line will be "connecting" your index and your middle finger. <br>
