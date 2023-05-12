@@ -16,7 +16,7 @@ Gesture controlled calculator using computer vision with python.
 3. Once it's up and running you'll notice the front camera will open up and a window will pop up.
 4. Your index finger will serve as a mouse. Also, al line will be "connecting" your index and your middle finger. <br>
    If you put both fingers together you'll be simulating a click event.<br>
-   **The closer to the screen you are, the greater click sensitivity and the further away, the greater sensitivity.**
+   **The closer to the screen you are, less click sensitivity and the further away, the greater sensitivity.**
 5. There are two special keys in the calculator keyboard:
   <br>**D:** It is used to delete the last number or operator entered,
   <br>**C:** It is used to clear the calculator screen.
