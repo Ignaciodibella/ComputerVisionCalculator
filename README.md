@@ -3,7 +3,7 @@ Gesture controlled calculator using computer vision with python.
 
 Insertar foto del proyecto funcionando
 
-### How to use it:
+### 💡 How to use it:
 1. Download the code.
 2. See the **Requirement** section for installation requirements.
 3. Once it's up and running you'll notice the front camera will open up and a window will pop up.
@@ -18,7 +18,15 @@ Insertar foto del proyecto funcionando
    <br> Two minus signs will end up being interpreted as a sum and a (5 - - 5 = 10)
    <br> And something similar happens if you mix +/- endig up in a substraciont (5 +- 2 = 3)
 
-### Requirements: 
+### ⚠️Requirements: 
+You'll need to install the following
+- `cvzone` (here i'm using the 1.5.6 version)
+- `opencv-python` (i'm using the 4.7.0.72 version)
+
+### 🛠️Configuration:
+- At line 82 you'll see a line containing: `#print(length)`
+<br> If you uncomment this line and run the project, you'll notice that as you move your index finger closer to (or further from) your middle finger, a series of console outputs will display the distance between them.
+<br> This is intended to adjust or calibrate the clic sensibility, but the default config should work just fine.
+<br> Nonetheless, you can tweak this config at line 84: `if length < 47:`
+
 insertar foto de las salidas de print de length explicando como ajustar el parámetro para la sensibilidad del click
-
-
