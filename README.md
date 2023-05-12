@@ -1,10 +1,15 @@
 # Computer Vision Calculator
 Gesture controlled calculator using computer vision with python.
+<div align="center">
+     <img src = "https://github.com/Ignaciodibella/ComputerVisionCalculator/blob/main/cvcalc.gif">
+</div>
+
+<br>
 
 <div align="center">
-<img src ="https://github.com/Ignaciodibella/ComputerVisionCalculator/blob/main/cvcalc.gif">
+     <img src = "https://github.com/Ignaciodibella/ComputerVisionCalculator/blob/main/handrecognition.png" width = 507 height = 284>
 </div>
-            
+
 ### 💡 How to use it:
 1. Download the code.
 2. See the **Requirement** section for installation requirements.
