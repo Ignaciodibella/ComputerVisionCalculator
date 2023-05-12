@@ -30,7 +30,8 @@ You'll need to install the following
 - `cvzone` (here i'm using the 1.5.6 version)
 - `opencv-python` (i'm using the 4.7.0.72 version)
 - `mediapipe`
-<br>This project was made using `Python 3.9`.
+
+This project was made using `Python 3.9`.
 
 ### 🛠️Configuration:
 - At line 82 you'll see a line containing: `#print(length)`
